@@ -1,0 +1,2 @@
+main video of the hero page is not getting uploaded in github so i just replaced it with another one , so remember it to replace that video
+with the one that it will support
